@@ -1,0 +1,8 @@
+digraph "CFG for 'loop' function" {
+	label="CFG for 'loop' function";
+
+	Node0x2373410 [shape=record,label="{}"];
+	Node0x2373410 -> Node0x23734a0;
+	Node0x23734a0 [shape=record,label="{call open(i8* getelementptr inbounds ([9 x i8], [9 \l... x i8]* @.str, i64 0, i64 0), i32 0) \l  %3 = call close(i32 3) \l  br label %1 \l}"];
+	Node0x23734a0 -> Node0x23734a0;
+}
