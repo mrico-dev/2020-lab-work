@@ -8,4 +8,4 @@ The *'code/'* directory contains the code described in the report.
 
 ---
 
-A huge thanks to Adrien Pommellet who guided me throught this project and corrected my work report.
+A huge thanks to my supervisor Adrien Pommellet who guided me throught this project and corrected my work report.
